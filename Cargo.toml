@@ -1,0 +1,10 @@
+[package]
+name = "fixer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+html5ever = "0.27"
+kuchiki = "0.8.1"
+glob = "0.3.1"
+regex = "1.10.5"
